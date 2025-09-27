@@ -1,1 +1,1 @@
-"print('hi')"
+"b=int(input())"
