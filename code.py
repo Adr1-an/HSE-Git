@@ -1,1 +1,1 @@
-"b=int(input())"
+"s=a+b"
