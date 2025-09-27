@@ -3,4 +3,12 @@
 привет
 132
 123
+#ввщд двух чисел
+a=int(input(""))
+b=int(input(""))
 
+#Ответ
+result= a+b
+
+#вывод
+print(result)
